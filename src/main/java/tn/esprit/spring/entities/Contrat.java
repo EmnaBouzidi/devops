@@ -14,7 +14,7 @@ import javax.persistence.TemporalType;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 @Entity
-publique class Contrat implements Serializable {
+public class Contrat implements Serializable {
 	
 
 	/**
